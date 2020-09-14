@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 120%;
+  background: #F8F8FF;
+}
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background: #b58cb8;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #b58cb8;
+  border: none;
+  border-radius: 5px;
+}
+.content {
+	margin-left: 10 px;
+	margin-right: 10 px;
+	padding: 20px;
+}
